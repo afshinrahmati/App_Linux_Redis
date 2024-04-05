@@ -1,7 +1,7 @@
 # App_Linux_Redis
 Application for managing the redis
-
-```javascript
+####Dependency
+```
 1) sudo apt-get install golang gcc libgl1-mesa-dev xorg-dev
 2) go mod init Linux_app
 3) go get fyne.io/fyne/v2@latest
